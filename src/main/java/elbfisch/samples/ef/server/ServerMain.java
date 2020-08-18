@@ -23,7 +23,7 @@
  * along with the jPac If not, see <http://www.gnu.org/licenses/>.
  */
 
-package elbfisch.samples.opcua.server;
+package elbfisch.samples.ef.server;
 
 import org.jpac.CharString;
 import org.jpac.Decimal;
